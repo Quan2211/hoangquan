@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("nhanh 1");
         System.out.println("bạn là ai");
+        System.out.println("bạn là afsdfsi");
     }
 }
