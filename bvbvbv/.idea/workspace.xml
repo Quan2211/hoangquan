@@ -26,7 +26,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Spring_Boot/test/hoangquan/bvbvbv&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,6 +40,9 @@
       <updated>1760684809842</updated>
       <workItem from="1760684811044" duration="9000" />
       <workItem from="1760684976017" duration="22000" />
+      <workItem from="1760685380153" duration="521000" />
+      <workItem from="1760688219797" duration="31000" />
+      <workItem from="1760688320800" duration="11000" />
     </task>
     <servers />
   </component>
